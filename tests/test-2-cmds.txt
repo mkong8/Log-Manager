@@ -1,0 +1,19 @@
+k rando chars $$$this#)(*&)cat
+g
+c category
+g
+k some with
+g
+c bar
+r
+g
+c barr
+r
+g
+k bar barr
+g
+p
+s
+r
+p
+q

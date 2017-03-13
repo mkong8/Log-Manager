@@ -1,0 +1,20 @@
+m 00:00:00:00:00
+g
+m 00:00:00:00:10
+g
+t 00:00:00:00:00|10:00:00:00:00
+r
+c pie-pie
+r
+k here
+g
+r
+p
+l
+p
+k pie.pie pie pie
+s
+g
+e 4
+b 0
+q

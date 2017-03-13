@@ -1,0 +1,5 @@
+00:00:00:00:01|cat|(*this is the message$ with@@@some^ rando-chars)
+00:00:00:00:02|bar|bar-is-bar
+00:00:00:00:03|barr|bar.is.part.of.barr
+00:00:00:00:02|bar|barr is here
+00:00:00:00:02|barr|barr is over here
